@@ -1,5 +1,5 @@
 # Instance Scheduler 에러 알람 아키텍처
-
+![](https://github.com/user-attachments/assets/4b4146ab-b7bd-4097-8ada-5631c162e30d)
 # Instance Scheduler 에러 알람 설명
 ## through SpaceOne
 1. Instance Scheduler가 ERROR라는 단어를 포함한 로그를 기록한다.
