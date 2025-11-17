@@ -26,11 +26,11 @@ CloudFormation Template 사이트에서 **instance-scheduler-on-aws.template**�
 ![](https://velog.velcdn.com/images/yakc0202/post/b76fa577-c33d-4084-b797-0ef24372a07a/image.png)
 
   |종류|설명|
-|---|---|
-|Schedule tag key|Instance Scheduler에서 사용할 tag 키|
-|Scheduling interval|Lambda를 트리거할 EventBridge interval|
-|Default time zone|기본 타임존 설정|
-|Enable Scheduling|Instance Scheduler을 활성화/비활성화, Yes이면 활성화|
+  |---|---|
+  |Schedule tag key|Instance Scheduler에서 사용할 tag 키|
+  |Scheduling interval|Lambda를 트리거할 EventBridge interval|
+  |Default time zone|기본 타임존 설정|
+  |Enable Scheduling|Instance Scheduler을 활성화/비활성화, Yes이면 활성화|
 
 - **Services**
 ![](https://velog.velcdn.com/images/yakc0202/post/d515a12b-6b74-40c3-b42e-ef4c1761b09d/image.png)
